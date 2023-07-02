@@ -1,0 +1,15 @@
+G:\GB\Final-control\LessonOne\bin\Debug\net7.0\LessonOne.exe
+G:\GB\Final-control\LessonOne\bin\Debug\net7.0\LessonOne.deps.json
+G:\GB\Final-control\LessonOne\bin\Debug\net7.0\LessonOne.runtimeconfig.json
+G:\GB\Final-control\LessonOne\bin\Debug\net7.0\LessonOne.dll
+G:\GB\Final-control\LessonOne\bin\Debug\net7.0\LessonOne.pdb
+G:\GB\Final-control\LessonOne\obj\Debug\net7.0\LessonOne.csproj.AssemblyReference.cache
+G:\GB\Final-control\LessonOne\obj\Debug\net7.0\LessonOne.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\Final-control\LessonOne\obj\Debug\net7.0\LessonOne.AssemblyInfoInputs.cache
+G:\GB\Final-control\LessonOne\obj\Debug\net7.0\LessonOne.AssemblyInfo.cs
+G:\GB\Final-control\LessonOne\obj\Debug\net7.0\LessonOne.csproj.CoreCompileInputs.cache
+G:\GB\Final-control\LessonOne\obj\Debug\net7.0\LessonOne.dll
+G:\GB\Final-control\LessonOne\obj\Debug\net7.0\refint\LessonOne.dll
+G:\GB\Final-control\LessonOne\obj\Debug\net7.0\LessonOne.pdb
+G:\GB\Final-control\LessonOne\obj\Debug\net7.0\LessonOne.genruntimeconfig.cache
+G:\GB\Final-control\LessonOne\obj\Debug\net7.0\ref\LessonOne.dll
