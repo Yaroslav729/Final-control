@@ -16,4 +16,13 @@ void InputArray(string[] arrayStart, string[] arrayEnd)
     }
 }
 
-
+void PrintArray(string[] arrayEnd)
+{
+    for (int i = 0; i < arrayEnd.Length; i++)
+    {
+        Console.Write($"{arrayEnd[i]} ");
+    }
+    Console.WriteLine();
+}
+InputArray(arrayStart, arrayEnd);
+PrintArray(arrayEnd);
